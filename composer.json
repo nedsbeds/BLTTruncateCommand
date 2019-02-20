@@ -1,0 +1,13 @@
+{
+  "name": "nedsbeds/blt-truncate-command",
+  "type": "blt-command",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/nedsbeds/blt-command-installer"
+    }
+  ],
+  "require": {
+    "nedsbeds/blt-command-installer": "dev-master"
+  }
+}
